@@ -5,11 +5,13 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color: #083b4c;
+}
+
 section {
     max-width: 1170px;
-    background-color: #083b4c;
     margin: auto;
-
 }
 
 h1 {
@@ -17,4 +19,20 @@ h1 {
     text-align: center;
     font-size: 4rem;
     margin: 50px ;
+}
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.boxes .square {
+    width: 120px;
+    height: 120px;
+    font-size: 1.5rem;
+    background-color: #1389b2;
+    margin: 1rem;
+    text-align: center;
+    line-height: 120px;
 }
