@@ -5,8 +5,11 @@
     font-family: sans-serif;
 }
 
-body{
+section {
+    max-width: 1170px;
     background-color: #083b4c;
+    margin: auto;
+
 }
 
 h1 {
