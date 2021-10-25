@@ -36,3 +36,15 @@ h1 {
     text-align: center;
     line-height: 120px;
 }
+
+.boxes  .box-3-5 {
+    background-color: #f0466f;
+}
+
+.boxes  .box-3 {
+    background-color: #0ad6a1;
+}
+
+.boxes  .box-5 {
+    background-color: #ffd166;
+}
