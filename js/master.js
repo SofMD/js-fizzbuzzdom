@@ -2,6 +2,6 @@
 const boxes = document.querySelector('.boxes');
 let size = 7;
 
-for (let row = 1; row <= size; row++) {
-    console.log(row);
+for (let box = 1; box <= 100; box++) {
+    console.log(box);
 }
